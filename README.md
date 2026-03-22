@@ -9,8 +9,8 @@ Nüwa (女娲) is an advanced system prompt architect designed to generate secur
 
 For the best experience, click the links below to view the raw code, then press `Ctrl+A` and `Ctrl+C` to copy everything for your AI.
 
-* **[🚀 Click here to Raw Code (English Version)](https://raw.githubusercontent.com/LucioLiu/nuwa-mas-compiler/main/nuwa-v4-en.xml)**
-* **[🚀 点击此处获取原始代码（中文对照版）](https://raw.githubusercontent.com/LucioLiu/nuwa-mas-compiler/main/nuwa-v4-cn.xml)**
+* **[🚀 Click here to Raw Code (English Version)](https://raw.githubusercontent.com/LucioLiu/nuwa-mas-compiler/refs/heads/main/nuwa-v4-en.xml.txt)**
+* **[🚀 点击此处获取原始代码（中文对照版）](https://raw.githubusercontent.com/LucioLiu/nuwa-mas-compiler/refs/heads/main/nuwa-v4-cn.xml.txt)**
 
 ---
 
