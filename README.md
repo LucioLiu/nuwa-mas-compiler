@@ -19,7 +19,14 @@ If you are new to AI Prompting, just follow these 3 steps:
 ## 📂 Which file should I choose?
 
 - **[mas-compiler-v4-genesis-en.xml](./mas-compiler-v4-genesis-en.xml)**: The standard version. Best for stable performance.
-- **[mas-compiler-v4-genesis-cn.xml](./mas-compiler-v4-genesis-cn.xml)**: Same logic as the EN version, but includes Chinese comments inside the code. Recommended for **Chinese native speakers** to better understand the internal logic.
+- **[mas-compiler-v4-genesis-cn.xml](./mas-compiler-v4-genesis-cn中文.xml)**: Same logic as the EN version, but includes Chinese comments inside the code. Recommended for **Chinese native speakers** to better understand the internal logic.
+
+---
+
+## ⚡ Quick Start: One-Click Copy
+For the best experience, click the links below to view the raw code, then press `Ctrl+A` and `Ctrl+C` to copy everything.
+
+* **[🚀 Click here to Raw Code (English Version)](https://raw.githubusercontent.com/LucioLiu/mas-compiler/refs/heads/main/mas-compiler-v4-genesis-en.xml.txt)**
 
 ---
 
@@ -32,5 +39,8 @@ If you are new to AI Prompting, just follow these 3 steps:
 3. **粘贴使用**：将全部代码粘贴给你的 AI（如 Claude, Grok 或 GPT），它会立即激活“架构师模式”。
 4. **开始创作**：告诉它你需要什么样的机器人，它就会自动为你编写专业的提示词。
 
+* **[🚀 点击此处获取原始代码（中文对照版）](https://raw.githubusercontent.com/LucioLiu/mas-compiler/refs/heads/main/mas-compiler-v4-genesis-cn%E4%B8%AD%E6%96%87.xml.txt)**
+
 ---
-*Created by Xunchang | Sharing AI prompt engineering experiments.*
+*Created by LucioLiu | Sharing AI prompt engineering experiments.*
+---
