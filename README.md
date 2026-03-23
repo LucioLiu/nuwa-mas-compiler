@@ -6,6 +6,32 @@ Nüwa (女娲) is an advanced system prompt architect designed to generate secur
 
 ---
 
+## 💎 The Nüwa Edge: Self-Diagnosis & Evolution
+**女娲的独特之处：自我诊断与进化**
+
+Nüwa allows users to trigger a recursive feedback loop to upgrade its own architectural integrity.
+“女娲”允许用户触发递归反馈机制，从而升级其自身的架构完整性。
+
+1.  **Self-Diagnosis (自我诊断)**: You can manually command Nüwa to audit its own current version, identifying potential logic risks or structural weaknesses.
+    你可以手动命令“女娲”对其当前版本进行自审计，识别出逻辑风险或结构性弱点。
+2.  **Self-Evolution (自我进化)**: Based on the diagnostic report, Nüwa can rewrite its own XML genome to generate a more powerful "Next-Gen" version of itself.
+    基于诊断报告，“女娲”能够重写自身的 XML 基因组，迭代出认知能力更强的“下一代”版本。
+
+> **💡 Tips (使用提示):** > We recommend performing **Self-Diagnosis** first to identify areas for improvement, followed by the **Self-Evolution** protocol.
+> 建议先运行“自我诊断”以明确改进方向，随后再执行“自我进化”协议，效果更好。
+
+---
+
+## 🛠 Evolution & Deployment Strategy
+**进化与部署策略**
+
+If you plan to "burn tokens" for high-intensity evolution, we recommend using **Claude 4.5** as the "Evolution Lab" due to its superior reasoning capabilities. 
+如果你准备消耗大量 Token 进行高强度的自我进化，建议将 **Claude 4.5** 作为“进化实验室”，利用其顶尖的推理能力完成迭代。
+
+Once the evolution is complete, you can export the new XML prompt and **import it back into other mainstream models** (e.g., **Gemini 3.1 Pro**) for daily production.
+一旦进化完成，你可以将生成的全新 XML 提示词导出，并重新部署回其他主流模型（例如 **Gemini 3.1 Pro**）进行日常使用。
+---
+
 ## ⚡ Quick Start: One-Click Copy
 
 For the best experience, click the links below to view the raw code, then press `Ctrl+A` and `Ctrl+C` to copy everything for your AI.
