@@ -1,5 +1,5 @@
 <p align="center">
-  < img src="images/cover.png" alt="项目展示图" width="600">
+  < img src="images/cover.png.jpg" alt="项目展示图" width="600">
 </p >
 
 # Nüwa (女娲) - MAS-Compiler
