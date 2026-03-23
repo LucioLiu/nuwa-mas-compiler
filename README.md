@@ -1,3 +1,7 @@
+<p align="center">
+  < img src="./assets/images/cover.png" width="800" alt="Nüwa-MAS-Compiler-Banner">
+</p >
+
 # Nüwa (女娲) - MAS-Compiler
 **Evolutionary XML Prompt Architect for Multi-Agent Systems**
 
