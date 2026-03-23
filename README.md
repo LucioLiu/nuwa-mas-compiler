@@ -1,6 +1,4 @@
-<p align="center">
-  < img src="cover.png.jpg" width="600">
-</p >
+![cover png](https://github.com/user-attachments/assets/5b44da2e-b9da-4c8e-8c7a-1a18a01aed1b)
 # Nüwa (女娲) - MAS-Compiler
 **Evolutionary XML Prompt Architect for Multi-Agent Systems**
 
